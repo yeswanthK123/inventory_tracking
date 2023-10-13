@@ -1,2 +1,2 @@
 # inventory_tracking
-hi
+this is my project
