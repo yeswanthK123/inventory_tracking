@@ -1,2 +1,2 @@
-# inventory_tracking
-
+# inventory-management
+This is a inventory management system
